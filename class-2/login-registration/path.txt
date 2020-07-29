@@ -1,0 +1,8 @@
+database name:  php_mysql_login_regi 
+
+
+
+
+index_page = Registration ------> login ----> profile ---> logout
+
+index_page = login ----> profile ---> logout
